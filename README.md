@@ -1,4 +1,4 @@
-# 🚀 ODLP MCP
+# 🚀 Price_Claw MCP
 
 > A lightweight MCP service that uses a large language model (LLM) to extract price and product information from e‑commerce pages.
 
